@@ -96,7 +96,7 @@
             "live_link": ""
         }
     ],
-    
+
     "news_channels": [
         {
             "channel_name": "ATN News",
@@ -139,6 +139,7 @@
             "live_link": ""
         }
     ],
+    
     "state_owned_channels": [
         {
             "channel_name": "BTV",
