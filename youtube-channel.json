@@ -1,0 +1,128 @@
+{
+  "entertainment_channels": [
+    {
+      "channel_name": "ATN Bangla",
+      "youtube_link": "https://www.youtube.com/c/ATNBANGLA"
+    },
+    {
+      "channel_name": "Channel i",
+      "youtube_link": "https://www.youtube.com/c/channeli"
+    },
+    {
+      "channel_name": "NTV",
+      "youtube_link": "https://www.youtube.com/c/ntvdigital"
+    },
+    {
+      "channel_name": "Ekushey Television",
+      "youtube_link": "https://www.youtube.com/user/EkusheyTelevision"
+    },
+    {
+      "channel_name": "RTV",
+      "youtube_link": "https://www.youtube.com/c/RtvDrama"
+    },
+    {
+      "channel_name": "Boishakhi TV",
+      "youtube_link": "https://www.youtube.com/c/BoishakhiTv"
+    },
+    {
+      "channel_name": "Banglavision",
+      "youtube_link": "https://www.youtube.com/c/Banglavision"
+    },
+    {
+      "channel_name": "Desh TV",
+      "youtube_link": "https://www.youtube.com/c/DeshTV"
+    },
+    {
+      "channel_name": "Maasranga Television",
+      "youtube_link": "https://www.youtube.com/c/MaasrangaTelevision"
+    },
+    {
+      "channel_name": "GTV",
+      "youtube_link": "https://www.youtube.com/c/GTVEntertainment"
+    },
+    {
+      "channel_name": "Deepto TV",
+      "youtube_link": "https://www.youtube.com/c/DeeptoTV"
+    },
+    {
+      "channel_name": "Nagorik TV",
+      "youtube_link": "https://www.youtube.com/c/NagorikTV"
+    },
+    {
+      "channel_name": "My TV",
+      "youtube_link": "https://www.youtube.com/c/MYTVBANGLADESH"
+    },
+    {
+      "channel_name": "SA TV",
+      "youtube_link": "https://www.youtube.com/c/SATVBD"
+    },
+    {
+      "channel_name": "Ananda TV",
+      "youtube_link": "https://www.youtube.com/c/AnandaTV"
+    },
+    {
+      "channel_name": "Channel 9",
+      "youtube_link": "https://www.youtube.com/c/Channel9bd"
+    },
+    {
+      "channel_name": "Global Television",
+      "youtube_link": "https://www.youtube.com/c/GlobalTelevision"
+    },
+    {
+      "channel_name": "Green TV",
+      "youtube_link": "https://www.youtube.com/c/GreenTV"
+    },
+    {
+      "channel_name": "Channel S",
+      "youtube_link": "https://www.youtube.com/c/ChannelS"
+    }
+  ],
+  "news_channels": [
+    {
+      "channel_name": "ATN News",
+      "youtube_link": "https://www.youtube.com/c/ATNNews"
+    },
+    {
+      "channel_name": "Somoy TV",
+      "youtube_link": "https://www.youtube.com/c/SOMOYTV"
+    },
+    {
+      "channel_name": "Independent Television",
+      "youtube_link": "https://www.youtube.com/c/IndependentTelevision"
+    },
+    {
+      "channel_name": "Channel 24",
+      "youtube_link": "https://www.youtube.com/c/channel24youtube"
+    },
+    {
+      "channel_name": "Ekattor TV",
+      "youtube_link": "https://www.youtube.com/c/EkattorTv"
+    },
+    {
+      "channel_name": "Jamuna Television",
+      "youtube_link": "https://www.youtube.com/c/JamunaTVbd"
+    },
+    {
+      "channel_name": "News24",
+      "youtube_link": "https://www.youtube.com/c/NEWS24TV"
+    },
+    {
+      "channel_name": "DBC News",
+      "youtube_link": "https://www.youtube.com/c/DBCNEWS"
+    }
+  ],
+  "state_owned_channels": [
+    {
+      "channel_name": "BTV",
+      "youtube_link": "https://www.youtube.com/c/BangladeshTelevision"
+    },
+    {
+      "channel_name": "BTV Chittagong",
+      "youtube_link": "https://www.youtube.com/c/BTVCHITTAGONG"
+    },
+    {
+      "channel_name": "Sangsad Bangladesh Television",
+      "youtube_link": "https://www.youtube.com/c/SangsadBangladeshTelevision"
+    }
+  ]
+}
